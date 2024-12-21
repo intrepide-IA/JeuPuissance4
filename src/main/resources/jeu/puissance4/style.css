@@ -1,0 +1,12 @@
+/* Styles pour le pop-up personnalisé */
+.popup-button {
+    -fx-background-color: #FF8C00;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+}
+
+.popup-label {
+    -fx-font-size: 16px;
+    -fx-text-fill: white;
+}
